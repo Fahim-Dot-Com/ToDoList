@@ -1,0 +1,13 @@
+
+---
+
+### 📂 **.gitattributes**
+```plaintext
+# Set the default text encoding to UTF-8
+* text=auto eol=lf
+
+# Python files
+*.py text diff=python
+
+# Markdown files
+*.md text diff=markdown
